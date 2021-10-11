@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Lab Session 3- Data Structures\.metadata\.plugins\org.eclipse.jdt.core
+1210658807.index
+472255526.index
